@@ -1,0 +1,13 @@
+﻿char.obj : error LNK2005: _main이(가) basictype.obj에 이미 정의되어 있습니다.
+comments.obj : error LNK2005: _main이(가) basictype.obj에 이미 정의되어 있습니다.
+debugging.obj : error LNK2005: _main이(가) basictype.obj에 이미 정의되어 있습니다.
+float.obj : error LNK2005: _main이(가) basictype.obj에 이미 정의되어 있습니다.
+integer.obj : error LNK2005: _main이(가) basictype.obj에 이미 정의되어 있습니다.
+printmline.obj : error LNK2005: _main이(가) basictype.obj에 이미 정의되어 있습니다.
+printstring.obj : error LNK2005: _main이(가) basictype.obj에 이미 정의되어 있습니다.
+putstring.obj : error LNK2005: _main이(가) basictype.obj에 이미 정의되어 있습니다.
+size.obj : error LNK2005: _main이(가) basictype.obj에 이미 정의되어 있습니다.
+subtraction.obj : error LNK2005: _main이(가) basictype.obj에 이미 정의되어 있습니다.
+sum.obj : error LNK2005: _main이(가) basictype.obj에 이미 정의되어 있습니다.
+var.obj : error LNK2005: _main이(가) basictype.obj에 이미 정의되어 있습니다.
+D:\C\Ch02\Debug\First C Project.exe : fatal error LNK1169: 여러 번 정의된 기호가 있습니다.
